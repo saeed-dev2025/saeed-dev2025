@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building des
 
 👨‍💻 Skills & Technologies
 
-Web Development:
-React.js
-Next.js
-Node.js
+Web Development: 
+React.js, 
+Next.js, 
+Node.js, 
 Express.js
 
-Desktop Development:
+Desktop Development: 
 PyQt5
 
 
