@@ -1,4 +1,19 @@
-## Hi there 👋
+Hello, I'm Saeed Dev 👋
+
+
+Welcome to my GitHub profile! I'm a passionate developer focused on building desktop and web applications using modern tools and frameworks.
+
+👨‍💻 Skills & Technologies
+
+Web Development:
+React.js
+Next.js
+Node.js
+Express.js
+
+Desktop Development:
+PyQt5
+
 
 <!--
 **saiddais/saiddais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
